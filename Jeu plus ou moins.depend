@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1503240532 source:c:\users\biboulou\documents\programmes\jeu plus ou moins\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

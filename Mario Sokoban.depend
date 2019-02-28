@@ -1,0 +1,256 @@
+# depslib dependency file v1.0
+1511804821 source:c:\users\biboulou\documents\programmes\mario sokoban\editeur.c
+	"constantes.h"
+	<stdlib.h>
+	<stdio.h>
+	<SDL.h>
+	<SDL_image.h>
+	"jeu.h"
+	"editeur.h"
+
+1511802632 source:c:\users\biboulou\documents\programmes\mario sokoban\fichiers.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL.h>
+	<SDL_image.h>
+	"jeu.h"
+	"constantes.h"
+	"fichiers.h"
+
+1511800374 source:c:\users\biboulou\documents\programmes\mario sokoban\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL.h>
+	<SDL_image.h>
+	"jeu.h"
+	"constantes.h"
+
+1511447984 c:\users\biboulou\documents\programmes\mario sokoban\constantes.h
+
+1325738639 c:\users\biboulou\documents\programmes\sdl\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\biboulou\documents\programmes\sdl\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\biboulou\documents\programmes\sdl\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326110987 c:\users\biboulou\documents\programmes\sdl\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325738639 c:\users\biboulou\documents\programmes\sdl\include\sdl_platform.h
+
+1326110994 c:\users\biboulou\documents\programmes\sdl\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326111000 c:\users\biboulou\documents\programmes\sdl\include\begin_code.h
+
+1325738639 c:\users\biboulou\documents\programmes\sdl\include\close_code.h
+
+1325738639 c:\users\biboulou\documents\programmes\sdl\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\biboulou\documents\programmes\sdl\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\biboulou\documents\programmes\sdl\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\biboulou\documents\programmes\sdl\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\biboulou\documents\programmes\sdl\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325738639 c:\users\biboulou\documents\programmes\sdl\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\biboulou\documents\programmes\sdl\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\biboulou\documents\programmes\sdl\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\biboulou\documents\programmes\sdl\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\biboulou\documents\programmes\sdl\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\biboulou\documents\programmes\sdl\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\biboulou\documents\programmes\sdl\include\sdl_keysym.h
+
+1325738639 c:\users\biboulou\documents\programmes\sdl\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\biboulou\documents\programmes\sdl\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\biboulou\documents\programmes\sdl\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\biboulou\documents\programmes\sdl\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325738639 c:\users\biboulou\documents\programmes\sdl\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\biboulou\documents\programmes\sdl\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\biboulou\documents\programmes\sdl\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325810433 c:\users\biboulou\documents\programmes\sdl\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1511864076 c:\users\biboulou\documents\programmes\mario sokoban\jeu.h
+	"constantes.h"
+
+1511802632 c:\users\biboulou\documents\programmes\mario sokoban\fichiers.h
+	"constantes.h"
+
+1511803826 c:\users\biboulou\documents\programmes\mario sokoban\editeur.h
+	"constantes.h"
+
+1511448232 source:c:\users\biboulou\documents\programmes\mario sokoban\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	"constantes.h"
+	"jeu.h"
+	"editeur.h"
+
+1511799715 source:c:\users\biboulou\documents\programmes\mario sokoban\niveaux.1v1.c
+	"constantes.h"
+
+1511863469 c:\users\biboulou\documents\programmes\mario sokoban\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL.h>
+	<SDL_image.h>
+	"jeu.h"
+	"constantes.h"
+
